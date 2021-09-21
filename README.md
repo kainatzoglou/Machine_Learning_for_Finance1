@@ -8,17 +8,25 @@ COMP0050 Module - Assignment 1 @UCL <br />
 
 Some of the results produced in the statistical analysis were the following: <br />
 <br />
-<img src="home_ownership.PNG" , align="center"> <br />
-<img src="mean_monthly_loans.PNG", align="center"> <br />
-<img src="application_types.PNG", align="center"> <br />
+<p align="center">
+<img src="home_ownership.PNG" > <br />
+<img src="mean_monthly_loans.PNG"> <br />
+<img src="application_types.PNG"> <br />
+</p>
 The next step was balancing the underepresented default class: <br />
 <br />
-<img src="unbalanced.PNG", align="center"> <br />
-<img src="balancing.PNG", align="center"> <br />
+<p align="center">
+<img src="unbalanced.PNG"> <br />
+<img src="balancing.PNG"> <br />
+</p>
 The performances of the Linear Discriminant Analysis binary classifier on unbalanced and ADASYN-balanced training sets are compared below : <br />
 <br />
-<img src="LDA-unbalanced.PNG", align="center"> <br />
-<img src="LDA-ADASYN-balanced.PNG", align="center"> <br />
+<p align="center">
+<img src="LDA-unbalanced.PNG"> <br />
+<img src="LDA-ADASYN-balanced.PNG"> <br />
+</p>
 A collective table that compares all results along with a hybrid model is illustrated below: <br />
 <br />
-<img src="ADASYN_comparative.PNG", align="center"> <br />
+<p align="center">
+<img src="ADASYN_comparative.PNG"> <br />
+</p>
